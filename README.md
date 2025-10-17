@@ -2,7 +2,7 @@
 
 This repository contains a **Jupyter notebook** demonstrating 3D and 2D visualizations of large-scale cosmic structures in the local Universe, inspired by:
 
-**Dupuy et al., 2023 – _“Dynamic cosmography of the local Universe: Laniakea and five more watershed superclusters”_**
+**Dupuy et al., 2023 – _“Dynamic cosmography of the local Universe: Laniakea and five more watershed superclusters”_** ([arXiv:2305.02339](https://arxiv.org/abs/2305.02339))
 
 ![Visualization of the Local Universe](visu3d.png)
 

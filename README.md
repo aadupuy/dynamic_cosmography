@@ -4,6 +4,8 @@ This repository contains a **Jupyter notebook** demonstrating 3D and 2D visualiz
 
 **Dupuy et al., 2023 – _“Dynamic cosmography of the local Universe: Laniakea and five more watershed superclusters”_**
 
+![Visualization of the Local Universe](visu3d.png)
+
 ---
 
 ## Overview
